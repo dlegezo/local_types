@@ -1,5 +1,5 @@
 [database]
-host=127.0.0.1 
-port=5432 
-user=user_lumen 
-password=lumen
+host= 
+port= 
+user= 
+password=
